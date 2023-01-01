@@ -1,0 +1,2476 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.24.2-Tisler" projectname="" saveDateTime="2022-05-23T14:51:36" saveUserFull="APS" saveUser="HP">
+  <homePath path=""/>
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <trust active="0"/>
+  <projectCrs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+      <srsid>3452</srsid>
+      <srid>4326</srid>
+      <authid>EPSG:4326</authid>
+      <description>WGS 84</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </projectCrs>
+  <layer-tree-group>
+    <customproperties>
+      <Option/>
+    </customproperties>
+    <layer-tree-layer id="Mapu_3b81c7e1_9276_44ec_92bc_4780de3bc655" checked="Qt::Checked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/Map Making/Mathura Map/Mapu.tif" providerKey="gdal" name="Mapu" legend_exp="" expanded="1">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="Export_Output_635f3da9_cfe7_4ffe_9cba_723ed96b8cac" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/Downloads/Valuation Data/Export_Output.shp" providerKey="ogr" name="Export_Output" legend_exp="" expanded="1">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="merged22_177874ea_afd6_48af_83ba_02d971b3be86" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/Map Making/Mathura Map/merged22.tif" providerKey="gdal" name="merged22" legend_exp="" expanded="1">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F14_097_052_04May19_BANDstack_raster_6b3f45e9_41ea_48a3_a085_ca2bd3ed5a6e" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F14-097-052-04May19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F14-097-052-04May19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F15_097_052_04May19_BANDstack_raster_5dd12938_54a0_49e1_b816_95f4263e8861" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F15-097-052-04May19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F15-097-052-04May19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F05_096_052_05Apr19_BANDstack_raster_f30f9159_8691_4370_8f52_6e954f67a398" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F05-096-052-05Apr19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F05-096-052-05Apr19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option type="Map">
+          <Option type="int" value="1" name="overview"/>
+        </Option>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F13_097_052_04May19_BANDstack_raster_427cf4ba_b156_410c_bf5c_8e8c907a41d0" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F13-097-052-04May19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F13-097-052-04May19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F06_096_052_05Apr19_BANDstack_raster_b4ffefd1_a055_41bd_a2be_804ed53fea1d" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F06-096-052-05Apr19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F06-096-052-05Apr19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F07_096_052_05Apr19_BANDstack_raster_fca240e4_6cc8_4426_a509_7e4394c0ac6b" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F07-096-052-05Apr19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F07-096-052-05Apr19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F10_097_052_04May19_BANDstack_raster_db4ef01f_6432_444f_9a88_bf8493f983f9" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F10-097-052-04May19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F10-097-052-04May19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F09_097_052_04May19_BANDstack_raster_2e389f32_e114_4ec1_863e_0ee16f295409" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F09-097-052-04May19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F09-097-052-04May19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="L3_NG43F11_097_052_04May19_BANDstack_raster_ff9c9526_c126_4d8e_a7ae_ab172b2c6c19" checked="Qt::Unchecked" patch_size="-1,-1" legend_split_behavior="0" source="C:/Users/HP/QGIS Matter/L3-NG43F11-097-052-04May19-BANDstack_raster.tif" providerKey="gdal" name="L3-NG43F11-097-052-04May19-BANDstack_raster" legend_exp="" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+    <custom-order enabled="0">
+      <item>L3_NG43F05_096_052_05Apr19_BANDstack_raster_f30f9159_8691_4370_8f52_6e954f67a398</item>
+      <item>L3_NG43F06_096_052_05Apr19_BANDstack_raster_b4ffefd1_a055_41bd_a2be_804ed53fea1d</item>
+      <item>L3_NG43F07_096_052_05Apr19_BANDstack_raster_fca240e4_6cc8_4426_a509_7e4394c0ac6b</item>
+      <item>L3_NG43F09_097_052_04May19_BANDstack_raster_2e389f32_e114_4ec1_863e_0ee16f295409</item>
+      <item>L3_NG43F10_097_052_04May19_BANDstack_raster_db4ef01f_6432_444f_9a88_bf8493f983f9</item>
+      <item>L3_NG43F11_097_052_04May19_BANDstack_raster_ff9c9526_c126_4d8e_a7ae_ab172b2c6c19</item>
+      <item>L3_NG43F13_097_052_04May19_BANDstack_raster_427cf4ba_b156_410c_bf5c_8e8c907a41d0</item>
+      <item>L3_NG43F15_097_052_04May19_BANDstack_raster_5dd12938_54a0_49e1_b816_95f4263e8861</item>
+      <item>L3_NG43F14_097_052_04May19_BANDstack_raster_6b3f45e9_41ea_48a3_a085_ca2bd3ed5a6e</item>
+      <item>merged22_177874ea_afd6_48af_83ba_02d971b3be86</item>
+      <item>Export_Output_635f3da9_cfe7_4ffe_9cba_723ed96b8cac</item>
+      <item>Mapu_3b81c7e1_9276_44ec_92bc_4780de3bc655</item>
+    </custom-order>
+  </layer-tree-group>
+  <snapping-settings mode="2" type="1" unit="1" enabled="0" tolerance="12" maxScale="0" minScale="0" self-snapping="0" intersection-snapping="0" scaleDependencyMode="0">
+    <individual-layer-settings>
+      <layer-setting type="1" id="Export_Output_635f3da9_cfe7_4ffe_9cba_723ed96b8cac" enabled="0" tolerance="12" maxScale="0" minScale="0" units="1"/>
+    </individual-layer-settings>
+  </snapping-settings>
+  <relations/>
+  <polymorphicRelations/>
+  <mapcanvas annotationsVisible="1" name="theMapCanvas">
+    <units>degrees</units>
+    <extent>
+      <xmin>76.60727579042445257</xmin>
+      <ymin>27.07130555136928152</ymin>
+      <xmax>78.30986981923938117</xmax>
+      <ymax>27.9891368013671844</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys nativeFormat="Wkt">
+        <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope/>
+  </mapcanvas>
+  <projectModels/>
+  <legend updateDrawingOrder="true">
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Checked" open="true" name="Mapu">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile visible="1" isInOverview="0" layerid="Mapu_3b81c7e1_9276_44ec_92bc_4780de3bc655"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="true" name="Export_Output">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="Export_Output_635f3da9_cfe7_4ffe_9cba_723ed96b8cac"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="true" name="merged22">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="merged22_177874ea_afd6_48af_83ba_02d971b3be86"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F14-097-052-04May19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F14_097_052_04May19_BANDstack_raster_6b3f45e9_41ea_48a3_a085_ca2bd3ed5a6e"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F15-097-052-04May19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F15_097_052_04May19_BANDstack_raster_5dd12938_54a0_49e1_b816_95f4263e8861"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F05-096-052-05Apr19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="1" layerid="L3_NG43F05_096_052_05Apr19_BANDstack_raster_f30f9159_8691_4370_8f52_6e954f67a398"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F13-097-052-04May19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F13_097_052_04May19_BANDstack_raster_427cf4ba_b156_410c_bf5c_8e8c907a41d0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F06-096-052-05Apr19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F06_096_052_05Apr19_BANDstack_raster_b4ffefd1_a055_41bd_a2be_804ed53fea1d"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F07-096-052-05Apr19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F07_096_052_05Apr19_BANDstack_raster_fca240e4_6cc8_4426_a509_7e4394c0ac6b"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F10-097-052-04May19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F10_097_052_04May19_BANDstack_raster_db4ef01f_6432_444f_9a88_bf8493f983f9"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F09-097-052-04May19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F09_097_052_04May19_BANDstack_raster_2e389f32_e114_4ec1_863e_0ee16f295409"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="false" name="L3-NG43F11-097-052-04May19-BANDstack_raster">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile visible="0" isInOverview="0" layerid="L3_NG43F11_097_052_04May19_BANDstack_raster_ff9c9526_c126_4d8e_a7ae_ab172b2c6c19"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <mapViewDocks/>
+  <mapcanvas annotationsVisible="1" name="mAreaCanvas">
+    <units>degrees</units>
+    <extent>
+      <xmin>-717.15000000000009095</xmin>
+      <ymin>-403.20000000000004547</ymin>
+      <xmax>717.15000000000009095</xmax>
+      <ymax>403.20000000000004547</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys nativeFormat="Wkt">
+        <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope/>
+  </mapcanvas>
+  <main-annotation-layer type="annotation" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+    <id>Annotations_c1cb2aaa_aed4_426e_974c_edb54212fcaf</id>
+    <datasource></datasource>
+    <keywordList>
+      <value></value>
+    </keywordList>
+    <layername>Annotations</layername>
+    <srs>
+      <spatialrefsys nativeFormat="Wkt">
+        <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </srs>
+    <resourceMetadata>
+      <identifier></identifier>
+      <parentidentifier></parentidentifier>
+      <language></language>
+      <type></type>
+      <title></title>
+      <abstract></abstract>
+      <links/>
+      <fees></fees>
+      <encoding></encoding>
+      <crs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt></wkt>
+          <proj4></proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym></projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </crs>
+      <extent/>
+    </resourceMetadata>
+    <items/>
+    <layerOpacity>1</layerOpacity>
+    <blendMode>0</blendMode>
+    <paintEffect/>
+  </main-annotation-layer>
+  <projectlayers>
+    <maplayer styleCategories="AllStyleCategories" simplifyMaxScale="1" symbologyReferenceScale="-1" autoRefreshTime="0" simplifyDrawingHints="1" labelsEnabled="0" type="vector" hasScaleBasedVisibilityFlag="0" geometry="Polygon" legendPlaceholderImage="" autoRefreshEnabled="0" simplifyLocal="1" wkbType="MultiPolygon" maxScale="0" simplifyAlgorithm="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" minScale="100000000" readOnly="0" simplifyDrawingTol="1">
+      <extent>
+        <xmin>77.27577972412109375</xmin>
+        <ymin>27.23905944824247172</ymin>
+        <xmax>77.97151184082042619</xmax>
+        <ymax>27.97051048278822094</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.27577972412109375</xmin>
+        <ymin>27.23905944824247172</ymin>
+        <xmax>77.97151184082042619</xmax>
+        <ymax>27.97051048278822094</ymax>
+      </wgs84extent>
+      <id>Export_Output_635f3da9_cfe7_4ffe_9cba_723ed96b8cac</id>
+      <datasource>C:/Users/HP/Downloads/Valuation Data/Export_Output.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Export_Output</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" fixedDuration="0" endField="" accumulate="0" enabled="0" startExpression="" limitMode="0" durationUnit="min" durationField="" startField="" endExpression="">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 type="singleSymbol" enableorderby="0" symbollevels="0" referencescale="-1" forceraster="0">
+        <symbols>
+          <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" value="" name="name"/>
+                <Option name="properties"/>
+                <Option type="QString" value="collection" name="type"/>
+              </Option>
+            </data_defined_properties>
+            <layer class="SimpleFill" enabled="1" pass="0" locked="0">
+              <Option type="Map">
+                <Option type="QString" value="3x:0,0,0,0,0,0" name="border_width_map_unit_scale"/>
+                <Option type="QString" value="247,247,247,255" name="color"/>
+                <Option type="QString" value="bevel" name="joinstyle"/>
+                <Option type="QString" value="0,0" name="offset"/>
+                <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
+                <Option type="QString" value="MM" name="offset_unit"/>
+                <Option type="QString" value="82,82,82,255" name="outline_color"/>
+                <Option type="QString" value="solid" name="outline_style"/>
+                <Option type="QString" value="0.26" name="outline_width"/>
+                <Option type="QString" value="MM" name="outline_width_unit"/>
+                <Option type="QString" value="solid" name="style"/>
+              </Option>
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="247,247,247,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="82,82,82,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option type="QString" value="" name="name"/>
+                  <Option name="properties"/>
+                  <Option type="QString" value="collection" name="type"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <Option type="Map">
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option name="variableNames"/>
+          <Option name="variableValues"/>
+        </Option>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+        <DiagramCategory penAlpha="255" spacing="5" penWidth="0" minScaleDenominator="0" penColor="#000000" width="15" minimumSize="0" spacingUnitScale="3x:0,0,0,0,0,0" opacity="1" showAxis="1" height="15" enabled="0" backgroundAlpha="255" maxScaleDenominator="1e+08" lineSizeType="MM" lineSizeScale="3x:0,0,0,0,0,0" diagramOrientation="Up" rotationOffset="270" scaleDependency="Area" labelPlacementMethod="XHeight" sizeScale="3x:0,0,0,0,0,0" scaleBasedVisibility="0" spacingUnit="MM" barWidth="5" sizeType="MM" backgroundColor="#ffffff" direction="0">
+          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <axisSymbol>
+            <symbol type="line" clip_to_extent="1" alpha="1" force_rhr="0" name="">
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option type="QString" value="" name="name"/>
+                  <Option name="properties"/>
+                  <Option type="QString" value="collection" name="type"/>
+                </Option>
+              </data_defined_properties>
+              <layer class="SimpleLine" enabled="1" pass="0" locked="0">
+                <Option type="Map">
+                  <Option type="QString" value="0" name="align_dash_pattern"/>
+                  <Option type="QString" value="square" name="capstyle"/>
+                  <Option type="QString" value="5;2" name="customdash"/>
+                  <Option type="QString" value="3x:0,0,0,0,0,0" name="customdash_map_unit_scale"/>
+                  <Option type="QString" value="MM" name="customdash_unit"/>
+                  <Option type="QString" value="0" name="dash_pattern_offset"/>
+                  <Option type="QString" value="3x:0,0,0,0,0,0" name="dash_pattern_offset_map_unit_scale"/>
+                  <Option type="QString" value="MM" name="dash_pattern_offset_unit"/>
+                  <Option type="QString" value="0" name="draw_inside_polygon"/>
+                  <Option type="QString" value="bevel" name="joinstyle"/>
+                  <Option type="QString" value="35,35,35,255" name="line_color"/>
+                  <Option type="QString" value="solid" name="line_style"/>
+                  <Option type="QString" value="0.26" name="line_width"/>
+                  <Option type="QString" value="MM" name="line_width_unit"/>
+                  <Option type="QString" value="0" name="offset"/>
+                  <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
+                  <Option type="QString" value="MM" name="offset_unit"/>
+                  <Option type="QString" value="0" name="ring_filter"/>
+                  <Option type="QString" value="0" name="trim_distance_end"/>
+                  <Option type="QString" value="3x:0,0,0,0,0,0" name="trim_distance_end_map_unit_scale"/>
+                  <Option type="QString" value="MM" name="trim_distance_end_unit"/>
+                  <Option type="QString" value="0" name="trim_distance_start"/>
+                  <Option type="QString" value="3x:0,0,0,0,0,0" name="trim_distance_start_map_unit_scale"/>
+                  <Option type="QString" value="MM" name="trim_distance_start_unit"/>
+                  <Option type="QString" value="0" name="tweak_dash_pattern_on_corners"/>
+                  <Option type="QString" value="0" name="use_custom_dash"/>
+                  <Option type="QString" value="3x:0,0,0,0,0,0" name="width_map_unit_scale"/>
+                </Option>
+                <prop k="align_dash_pattern" v="0"/>
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="dash_pattern_offset" v="0"/>
+                <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="dash_pattern_offset_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="35,35,35,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0.26"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="ring_filter" v="0"/>
+                <prop k="trim_distance_end" v="0"/>
+                <prop k="trim_distance_end_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="trim_distance_end_unit" v="MM"/>
+                <prop k="trim_distance_start" v="0"/>
+                <prop k="trim_distance_start_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <prop k="trim_distance_start_unit" v="MM"/>
+                <prop k="tweak_dash_pattern_on_corners" v="0"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                <data_defined_properties>
+                  <Option type="Map">
+                    <Option type="QString" value="" name="name"/>
+                    <Option name="properties"/>
+                    <Option type="QString" value="collection" name="type"/>
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </axisSymbol>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings zIndex="0" dist="0" priority="0" linePlacementFlags="18" placement="1" obstacle="0" showAll="1">
+        <properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks/>
+        <checkConfiguration type="Map">
+          <Option type="Map" name="QgsGeometryGapCheck">
+            <Option type="double" value="0" name="allowedGapsBuffer"/>
+            <Option type="bool" value="false" name="allowedGapsEnabled"/>
+            <Option type="QString" value="" name="allowedGapsLayer"/>
+          </Option>
+        </checkConfiguration>
+      </geometryOptions>
+      <legend type="default-vector" showLabelLegend="0"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field configurationFlags="None" name="ID_0">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ISO">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="NAME_0">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ID_1">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="NAME_1">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ID_2">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="NAME_2">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="TYPE_2">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ENGTYPE_2">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="NL_NAME_2">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="VARNAME_2">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias field="ID_0" index="0" name=""/>
+        <alias field="ISO" index="1" name=""/>
+        <alias field="NAME_0" index="2" name=""/>
+        <alias field="ID_1" index="3" name=""/>
+        <alias field="NAME_1" index="4" name=""/>
+        <alias field="ID_2" index="5" name=""/>
+        <alias field="NAME_2" index="6" name=""/>
+        <alias field="TYPE_2" index="7" name=""/>
+        <alias field="ENGTYPE_2" index="8" name=""/>
+        <alias field="NL_NAME_2" index="9" name=""/>
+        <alias field="VARNAME_2" index="10" name=""/>
+      </aliases>
+      <defaults>
+        <default field="ID_0" applyOnUpdate="0" expression=""/>
+        <default field="ISO" applyOnUpdate="0" expression=""/>
+        <default field="NAME_0" applyOnUpdate="0" expression=""/>
+        <default field="ID_1" applyOnUpdate="0" expression=""/>
+        <default field="NAME_1" applyOnUpdate="0" expression=""/>
+        <default field="ID_2" applyOnUpdate="0" expression=""/>
+        <default field="NAME_2" applyOnUpdate="0" expression=""/>
+        <default field="TYPE_2" applyOnUpdate="0" expression=""/>
+        <default field="ENGTYPE_2" applyOnUpdate="0" expression=""/>
+        <default field="NL_NAME_2" applyOnUpdate="0" expression=""/>
+        <default field="VARNAME_2" applyOnUpdate="0" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint exp_strength="0" field="ID_0" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="ISO" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="NAME_0" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="ID_1" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="NAME_1" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="ID_2" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="NAME_2" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="TYPE_2" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="ENGTYPE_2" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="NL_NAME_2" unique_strength="0" notnull_strength="0" constraints="0"/>
+        <constraint exp_strength="0" field="VARNAME_2" unique_strength="0" notnull_strength="0" constraints="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="ID_0" exp="" desc=""/>
+        <constraint field="ISO" exp="" desc=""/>
+        <constraint field="NAME_0" exp="" desc=""/>
+        <constraint field="ID_1" exp="" desc=""/>
+        <constraint field="NAME_1" exp="" desc=""/>
+        <constraint field="ID_2" exp="" desc=""/>
+        <constraint field="NAME_2" exp="" desc=""/>
+        <constraint field="TYPE_2" exp="" desc=""/>
+        <constraint field="ENGTYPE_2" exp="" desc=""/>
+        <constraint field="NL_NAME_2" exp="" desc=""/>
+        <constraint field="VARNAME_2" exp="" desc=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
+        <columns>
+          <column type="field" width="-1" name="ID_0" hidden="0"/>
+          <column type="field" width="-1" name="ISO" hidden="0"/>
+          <column type="field" width="-1" name="NAME_0" hidden="0"/>
+          <column type="field" width="-1" name="ID_1" hidden="0"/>
+          <column type="field" width="-1" name="NAME_1" hidden="0"/>
+          <column type="field" width="-1" name="ID_2" hidden="0"/>
+          <column type="field" width="-1" name="NAME_2" hidden="0"/>
+          <column type="field" width="-1" name="TYPE_2" hidden="0"/>
+          <column type="field" width="-1" name="ENGTYPE_2" hidden="0"/>
+          <column type="field" width="-1" name="NL_NAME_2" hidden="0"/>
+          <column type="field" width="-1" name="VARNAME_2" hidden="0"/>
+          <column type="actions" width="-1" hidden="1"/>
+        </columns>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+    geom = feature.geometry()
+    control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable>
+        <field editable="1" name="ENGTYPE_2"/>
+        <field editable="1" name="ID_0"/>
+        <field editable="1" name="ID_1"/>
+        <field editable="1" name="ID_2"/>
+        <field editable="1" name="ISO"/>
+        <field editable="1" name="NAME_0"/>
+        <field editable="1" name="NAME_1"/>
+        <field editable="1" name="NAME_2"/>
+        <field editable="1" name="NL_NAME_2"/>
+        <field editable="1" name="TYPE_2"/>
+        <field editable="1" name="VARNAME_2"/>
+      </editable>
+      <labelOnTop>
+        <field labelOnTop="0" name="ENGTYPE_2"/>
+        <field labelOnTop="0" name="ID_0"/>
+        <field labelOnTop="0" name="ID_1"/>
+        <field labelOnTop="0" name="ID_2"/>
+        <field labelOnTop="0" name="ISO"/>
+        <field labelOnTop="0" name="NAME_0"/>
+        <field labelOnTop="0" name="NAME_1"/>
+        <field labelOnTop="0" name="NAME_2"/>
+        <field labelOnTop="0" name="NL_NAME_2"/>
+        <field labelOnTop="0" name="TYPE_2"/>
+        <field labelOnTop="0" name="VARNAME_2"/>
+      </labelOnTop>
+      <reuseLastValue>
+        <field reuseLastValue="0" name="ENGTYPE_2"/>
+        <field reuseLastValue="0" name="ID_0"/>
+        <field reuseLastValue="0" name="ID_1"/>
+        <field reuseLastValue="0" name="ID_2"/>
+        <field reuseLastValue="0" name="ISO"/>
+        <field reuseLastValue="0" name="NAME_0"/>
+        <field reuseLastValue="0" name="NAME_1"/>
+        <field reuseLastValue="0" name="NAME_2"/>
+        <field reuseLastValue="0" name="NL_NAME_2"/>
+        <field reuseLastValue="0" name="TYPE_2"/>
+        <field reuseLastValue="0" name="VARNAME_2"/>
+      </reuseLastValue>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression>"NAME_0"</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.74549999999999983</ymin>
+        <xmax>77.50449999999999307</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.74549999999999983</ymin>
+        <xmax>77.50449999999999307</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F05_096_052_05Apr19_BANDstack_raster_f30f9159_8691_4370_8f52_6e954f67a398</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F05-096-052-05Apr19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F05-096-052-05Apr19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>143</minValue>
+            <maxValue>242</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>78</minValue>
+            <maxValue>172</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>98</minValue>
+            <maxValue>170</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.49549999999999983</ymin>
+        <xmax>77.50449999999999307</xmax>
+        <ymax>27.75450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.49549999999999983</ymin>
+        <xmax>77.50449999999999307</xmax>
+        <ymax>27.75450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F06_096_052_05Apr19_BANDstack_raster_b4ffefd1_a055_41bd_a2be_804ed53fea1d</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F06-096-052-05Apr19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F06-096-052-05Apr19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>149</minValue>
+            <maxValue>248</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>82</minValue>
+            <maxValue>186</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>100</minValue>
+            <maxValue>181</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.24549999999999983</ymin>
+        <xmax>77.50449999999999307</xmax>
+        <ymax>27.50450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.24549999999999983</ymin>
+        <xmax>77.50449999999999307</xmax>
+        <ymax>27.50450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F07_096_052_05Apr19_BANDstack_raster_fca240e4_6cc8_4426_a509_7e4394c0ac6b</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F07-096-052-05Apr19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F07-096-052-05Apr19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>170</minValue>
+            <maxValue>250</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>90</minValue>
+            <maxValue>187</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>105</minValue>
+            <maxValue>180</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.49550000000000693</xmin>
+        <ymin>27.74549999999999983</ymin>
+        <xmax>77.75449999999999307</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.49550000000000693</xmin>
+        <ymin>27.74549999999999983</ymin>
+        <xmax>77.75449999999999307</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F09_097_052_04May19_BANDstack_raster_2e389f32_e114_4ec1_863e_0ee16f295409</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F09-097-052-04May19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F09-097-052-04May19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>138</minValue>
+            <maxValue>273</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>103</minValue>
+            <maxValue>202</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>126</minValue>
+            <maxValue>200</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.49550000000000693</xmin>
+        <ymin>27.49549999999999983</ymin>
+        <xmax>77.75449999999999307</xmax>
+        <ymax>27.75450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.49550000000000693</xmin>
+        <ymin>27.49549999999999983</ymin>
+        <xmax>77.75449999999999307</xmax>
+        <ymax>27.75450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F10_097_052_04May19_BANDstack_raster_db4ef01f_6432_444f_9a88_bf8493f983f9</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F10-097-052-04May19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F10-097-052-04May19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>143</minValue>
+            <maxValue>292</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>102</minValue>
+            <maxValue>217</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>126</minValue>
+            <maxValue>216</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.49550000000000693</xmin>
+        <ymin>27.24549999999999983</ymin>
+        <xmax>77.75449999999999307</xmax>
+        <ymax>27.50450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.49550000000000693</xmin>
+        <ymin>27.24549999999999983</ymin>
+        <xmax>77.75449999999999307</xmax>
+        <ymax>27.50450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F11_097_052_04May19_BANDstack_raster_ff9c9526_c126_4d8e_a7ae_ab172b2c6c19</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F11-097-052-04May19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F11-097-052-04May19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>185</minValue>
+            <maxValue>297</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>109</minValue>
+            <maxValue>224</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>134</minValue>
+            <maxValue>220</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.74550000000000693</xmin>
+        <ymin>27.74549999999999983</ymin>
+        <xmax>78.00449999999999307</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.74550000000000693</xmin>
+        <ymin>27.74549999999999983</ymin>
+        <xmax>78.00449999999999307</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F13_097_052_04May19_BANDstack_raster_427cf4ba_b156_410c_bf5c_8e8c907a41d0</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F13-097-052-04May19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F13-097-052-04May19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>188</minValue>
+            <maxValue>312</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>100</minValue>
+            <maxValue>200</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>128</minValue>
+            <maxValue>200</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.74550000000000693</xmin>
+        <ymin>27.49549999999999983</ymin>
+        <xmax>78.00449999999999307</xmax>
+        <ymax>27.75450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.74550000000000693</xmin>
+        <ymin>27.49549999999999983</ymin>
+        <xmax>78.00449999999999307</xmax>
+        <ymax>27.75450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F14_097_052_04May19_BANDstack_raster_6b3f45e9_41ea_48a3_a085_ca2bd3ed5a6e</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F14-097-052-04May19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F14-097-052-04May19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>201</minValue>
+            <maxValue>325</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>99</minValue>
+            <maxValue>203</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>130</minValue>
+            <maxValue>203</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.74550000000000693</xmin>
+        <ymin>27.24549999999999983</ymin>
+        <xmax>78.00449999999999307</xmax>
+        <ymax>27.50450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.74550000000000693</xmin>
+        <ymin>27.24549999999999983</ymin>
+        <xmax>78.00449999999999307</xmax>
+        <ymax>27.50450000000000017</ymax>
+      </wgs84extent>
+      <id>L3_NG43F15_097_052_04May19_BANDstack_raster_5dd12938_54a0_49e1_b816_95f4263e8861</id>
+      <datasource>C:/Users/HP/QGIS Matter/L3-NG43F15-097-052-04May19-BANDstack_raster.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>L3-NG43F15-097-052-04May19-BANDstack_raster</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial dimensions="2" maxz="0" crs="" miny="0" maxy="0" minx="0" minz="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="bool" value="false" name="WMSBackgroundLayer"/>
+          <Option type="bool" value="false" name="WMSPublishDataSourceUrl"/>
+          <Option type="int" value="0" name="embeddedWidgets/count"/>
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="3" blueBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>178</minValue>
+            <maxValue>312</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>98</minValue>
+            <maxValue>215</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>127</minValue>
+            <maxValue>212</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.27587793223284507</xmin>
+        <ymin>27.23920112945264904</ymin>
+        <xmax>77.97142006950474524</xmax>
+        <ymax>27.97029669852302192</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.27587793223284507</xmin>
+        <ymin>27.23920112945264904</ymin>
+        <xmax>77.97142006950474524</xmax>
+        <ymax>27.97029669852302192</ymax>
+      </wgs84extent>
+      <id>Mapu_3b81c7e1_9276_44ec_92bc_4780de3bc655</id>
+      <datasource>C:/Users/HP/QGIS Matter/Map Making/Mathura Map/Mapu.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Mapu</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="1" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>204.99951873716634</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>205.99974332648873</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>282.9980669276181</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer type="raster" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" refreshOnNotifyMessage="" legendPlaceholderImage="" autoRefreshEnabled="0" autoRefreshTime="0">
+      <extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.2455017376194597</ymin>
+        <xmax>78.00449826238050832</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>77.24550000000000693</xmin>
+        <ymin>27.2455017376194597</ymin>
+        <xmax>78.00449826238050832</xmax>
+        <ymax>28.00450000000000017</ymax>
+      </wgs84extent>
+      <id>merged22_177874ea_afd6_48af_83ba_02d971b3be86</id>
+      <datasource>C:/Users/HP/QGIS Matter/Map Making/Mathura Map/merged22.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>merged22</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList useSrcNoData="0" bandNo="2"/>
+        <noDataList useSrcNoData="0" bandNo="3"/>
+        <noDataList useSrcNoData="0" bandNo="4"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" enabled="0" fetchMode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <Option type="Map">
+          <Option type="QString" value="Value" name="identify/format"/>
+        </Option>
+      </customproperties>
+      <pipe-data-defined-properties>
+        <Option type="Map">
+          <Option type="QString" value="" name="name"/>
+          <Option name="properties"/>
+          <Option type="QString" value="collection" name="type"/>
+        </Option>
+      </pipe-data-defined-properties>
+      <pipe>
+        <provider>
+          <resampling maxOversampling="2" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour"/>
+        </provider>
+        <rasterrenderer type="multibandcolor" alphaBand="-1" nodataColor="" greenBand="2" opacity="1" redBand="1" blueBand="3">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>CumulativeCut</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <redContrastEnhancement>
+            <minValue>106.00023246492987</minValue>
+            <maxValue>207.9998476953908</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>90.00040881763528</minValue>
+            <maxValue>209.9997114228457</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>153.9994388777555</minValue>
+            <maxValue>299.9986372745491</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast gamma="1" brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" saturation="0" colorizeBlue="128" colorizeRed="255" colorizeOn="0" colorizeStrength="100" grayscaleMode="0" invertColors="0"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <layerorder>
+    <layer id="L3_NG43F05_096_052_05Apr19_BANDstack_raster_f30f9159_8691_4370_8f52_6e954f67a398"/>
+    <layer id="L3_NG43F06_096_052_05Apr19_BANDstack_raster_b4ffefd1_a055_41bd_a2be_804ed53fea1d"/>
+    <layer id="L3_NG43F07_096_052_05Apr19_BANDstack_raster_fca240e4_6cc8_4426_a509_7e4394c0ac6b"/>
+    <layer id="L3_NG43F09_097_052_04May19_BANDstack_raster_2e389f32_e114_4ec1_863e_0ee16f295409"/>
+    <layer id="L3_NG43F10_097_052_04May19_BANDstack_raster_db4ef01f_6432_444f_9a88_bf8493f983f9"/>
+    <layer id="L3_NG43F11_097_052_04May19_BANDstack_raster_ff9c9526_c126_4d8e_a7ae_ab172b2c6c19"/>
+    <layer id="L3_NG43F13_097_052_04May19_BANDstack_raster_427cf4ba_b156_410c_bf5c_8e8c907a41d0"/>
+    <layer id="L3_NG43F15_097_052_04May19_BANDstack_raster_5dd12938_54a0_49e1_b816_95f4263e8861"/>
+    <layer id="L3_NG43F14_097_052_04May19_BANDstack_raster_6b3f45e9_41ea_48a3_a085_ca2bd3ed5a6e"/>
+    <layer id="merged22_177874ea_afd6_48af_83ba_02d971b3be86"/>
+    <layer id="Export_Output_635f3da9_cfe7_4ffe_9cba_723ed96b8cac"/>
+    <layer id="Mapu_3b81c7e1_9276_44ec_92bc_4780de3bc655"/>
+  </layerorder>
+  <properties>
+    <Digitizing>
+      <AvoidIntersectionsMode type="int">0</AvoidIntersectionsMode>
+    </Digitizing>
+    <Gui>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+    </Gui>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+    <Measure>
+      <Ellipsoid type="QString">EPSG:7030</Ellipsoid>
+    </Measure>
+    <Measurement>
+      <AreaUnits type="QString"></AreaUnits>
+      <DistanceUnits type="QString"></DistanceUnits>
+    </Measurement>
+    <PAL>
+      <CandidatesLinePerCM type="double">5</CandidatesLinePerCM>
+      <CandidatesPolygonPerCM type="double">2.5</CandidatesPolygonPerCM>
+      <DrawRectOnly type="bool">false</DrawRectOnly>
+      <DrawUnplaced type="bool">false</DrawUnplaced>
+      <PlacementEngineVersion type="int">1</PlacementEngineVersion>
+      <SearchMethod type="int">0</SearchMethod>
+      <ShowingAllLabels type="bool">false</ShowingAllLabels>
+      <ShowingCandidates type="bool">false</ShowingCandidates>
+      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+      <TextFormat type="int">0</TextFormat>
+      <UnplacedColor type="QString">255,0,0,255</UnplacedColor>
+    </PAL>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <PositionPrecision>
+      <Automatic type="bool">true</Automatic>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+    </PositionPrecision>
+    <SemiAutomaticClassificationPlugin>
+      <ROIInfoField type="QString">River</ROIInfoField>
+      <SCP_DownloadTable type="QString"></SCP_DownloadTable>
+      <bandSetsList type="QString">[['Yes', 0, 4, ['L3-NG43F14-097-052-04May19-BAND2', 'L3-NG43F14-097-052-04May19-BAND3', 'L3-NG43F14-097-052-04May19-BAND4', 'L3-NG43F14-097-052-04May19-BAND5'], [1.0, 2.0, 3.0, 4.0], 'band number', [[1.0, 1.0, 1.0, 1.0], [0.0, 0.0, 0.0, 0.0]], 'Band set 0', '', '']]</bandSetsList>
+      <bndSetNumber type="QString">0</bndSetNumber>
+      <trainingLayer type="QString"></trainingLayer>
+    </SemiAutomaticClassificationPlugin>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+  </properties>
+  <dataDefinedServerProperties>
+    <Option type="Map">
+      <Option type="QString" value="" name="name"/>
+      <Option name="properties"/>
+      <Option type="QString" value="collection" name="type"/>
+    </Option>
+  </dataDefinedServerProperties>
+  <visibility-presets/>
+  <transformContext/>
+  <projectMetadata>
+    <identifier></identifier>
+    <parentidentifier></parentidentifier>
+    <language></language>
+    <type></type>
+    <title></title>
+    <abstract></abstract>
+    <links/>
+    <author>APS</author>
+    <creation>2022-05-23T13:32:20</creation>
+  </projectMetadata>
+  <Annotations/>
+  <Layouts/>
+  <mapViewDocks3D/>
+  <Bookmarks/>
+  <ProjectViewSettings UseProjectScales="0">
+    <Scales/>
+    <DefaultViewExtent xmax="78.49151160433450514" ymax="27.9891368013671844" ymin="27.07130555136928152" xmin="76.4256340053293286">
+      <spatialrefsys nativeFormat="Wkt">
+        <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </DefaultViewExtent>
+  </ProjectViewSettings>
+  <ProjectTimeSettings cumulativeTemporalRange="0" timeStep="1" frameRate="1" timeStepUnit="h"/>
+  <ProjectDisplaySettings>
+    <BearingFormat id="bearing">
+      <Option type="Map">
+        <Option type="QChar" value="" name="decimal_separator"/>
+        <Option type="int" value="6" name="decimals"/>
+        <Option type="int" value="0" name="direction_format"/>
+        <Option type="int" value="0" name="rounding_type"/>
+        <Option type="bool" value="false" name="show_plus"/>
+        <Option type="bool" value="true" name="show_thousand_separator"/>
+        <Option type="bool" value="false" name="show_trailing_zeros"/>
+        <Option type="QChar" value="" name="thousand_separator"/>
+      </Option>
+    </BearingFormat>
+  </ProjectDisplaySettings>
+</qgis>

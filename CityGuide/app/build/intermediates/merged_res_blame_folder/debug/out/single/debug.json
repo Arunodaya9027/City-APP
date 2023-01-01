@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_city_2.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/city_2.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_share_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_share_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_restaurant_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_restaurant_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_menulogo_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_menulogo_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_retailer_start_up_screen.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_retailer_start_up_screen.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_shops_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/shops_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_most_viewed_card_design.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/most_viewed_card_design.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_menulogo_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_menulogo_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_rate_us_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_rate_us_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_categories_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_categories_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_city_2.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/city_2.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_splash_screen_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/splash_screen_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_general_back_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/general_back_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_rent_car_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_rent_car_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_logout_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_logout_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_shop_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_shop_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_education_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/education_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_retailer_circle_black.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/retailer_circle_black.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_city_1.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/city_1.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_rent_car_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_rent_car_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_hospital_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/hospital_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/font_muli_light_italic.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/font/muli_light_italic.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_shops_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/shops_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_bank_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/bank_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_rate_us_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_rate_us_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_restaurant_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/restaurant_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_profile_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_profile_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_shops_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_shops_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_logout_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_logout_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_categories_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_categories_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_splash_screen_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/splash_screen_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_rent_car_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_rent_car_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_logout_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_logout_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_featured_card_design_.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/featured_card_design_.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_dashboard_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_dashboard_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_restaurant_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_restaurant_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_login_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_login_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_login_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_login_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_rent_car_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_rent_car_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_mcdonald_img.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/mcdonald_img.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_icon.jpg.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_icon.jpg"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_share_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_share_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_bank_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/bank_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_mcdonald_img.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/mcdonald_img.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_bank_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/bank_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_general_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/general_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_shops_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_shops_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_hospitals_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_hospitals_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_shop_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_shop_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_city_2.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/city_2.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_restaurant_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/restaurant_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_hospital_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/hospital_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_profile_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_profile_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_shops_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/shops_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_hospital_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/hospital_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_general_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/general_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_splash_screen.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/splash_screen.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_shops_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/shops_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_shops_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_shops_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_mcdonald_img.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/mcdonald_img.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_mcdonald_img.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/mcdonald_img.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_login_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_login_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_general_back_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/general_back_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_retailer_circle_black.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/retailer_circle_black.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_hospital_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/hospital_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_education_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/education_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_shop_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_shop_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_hospitals_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_hospitals_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_share_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_share_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_shops_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/shops_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_profile_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_profile_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_half_bicycle.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/half_bicycle.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_restaurant_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/restaurant_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_menulogo_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_menulogo_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/font_baloo.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/font/baloo.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_menu_header.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/menu_header.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_general_back_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/general_back_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_all_categories.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_all_categories.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_rate_us_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_rate_us_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_general_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/general_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_shops_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/shops_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/font_bevan.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/font/bevan.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_city_2.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/city_2.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_retailer_circle_black.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/retailer_circle_black.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_retailer_circle_black.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/retailer_circle_black.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_logout_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_logout_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_icon.jpg.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_icon.jpg"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_car_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_car_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_shop_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_shop_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/anim_bottom_anim.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/anim/bottom_anim.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_rate_us_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_rate_us_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_bank_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/bank_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_half_bicycle.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/half_bicycle.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_profile_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_profile_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_city_1.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/city_1.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_categories_restaurant_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/categories_restaurant_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_car_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_car_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_city_1.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/city_1.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_icon.jpg.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_icon.jpg"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_login_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_login_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/anim_side_anim.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/anim/side_anim.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_dashboard_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_dashboard_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_dashboard_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_dashboard_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_retailer_login.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_retailer_login.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_rate_us_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_rate_us_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_categories_card_design.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/categories_card_design.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_general_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/general_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_profile_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_profile_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_hospitals_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_hospitals_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_restaurant_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_restaurant_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_splash_screen_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/splash_screen_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_user_dashboard.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_user_dashboard.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_retailer_sign_up.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_retailer_sign_up.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_hospitals_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_hospitals_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_retailer_circle_black.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/retailer_circle_black.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_rent_car_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_rent_car_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_sign_up2nd_class.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_sign_up2nd_class.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_menulogo_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_menulogo_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_restaurant_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/restaurant_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_share_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_share_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_general_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/general_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_shop_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_shop_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_education_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/education_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_login_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_login_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_city_2.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/city_2.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_splash_screen_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/splash_screen_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_education_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/education_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_logout_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_logout_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_hospitals_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_hospitals_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_general_back_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/general_back_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_education_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/education_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_categories_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_categories_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_general_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/general_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_categories_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_categories_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_rate_us_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_rate_us_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_city_1.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/city_1.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_icon.jpg.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_icon.jpg"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_login_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_login_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/menu_main_menu.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_car_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_car_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_menu_share_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/menu_share_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_splash_screen_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/splash_screen_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_car_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_car_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.fieldproject.cityguide.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_logout_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_logout_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_restaurant_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_restaurant_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_restaurant_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/restaurant_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_half_bicycle.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/half_bicycle.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_retailer_circle_black.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/retailer_circle_black.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_menulogo_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_menulogo_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_shops_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_shops_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_general_back_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/general_back_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_mcdonald_img.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/mcdonald_img.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_categories_restaurant_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/categories_restaurant_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_mcdonald_img.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/mcdonald_img.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_menulogo_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_menulogo_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_categories_shop_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/categories_shop_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_menu_categories_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/menu_categories_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_icon.jpg.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_icon.jpg"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/font_bowlby_one_sc.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/font/bowlby_one_sc.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_profile_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_profile_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_hospital_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/hospital_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_categories_shops_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/categories_shops_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_half_bicycle.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/half_bicycle.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_search_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_city_2.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/city_2.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_half_bicycle.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/half_bicycle.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_rent_car_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_rent_car_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_education_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/education_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_icon.jpg.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_icon.jpg"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_dashboard_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_dashboard_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_menu_categories_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/menu_categories_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/layout_activity_sign_up3rd_class.xml.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/layout/activity_sign_up3rd_class.xml"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_menu_dashboard_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/menu_dashboard_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_car_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_car_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_add_missing_place_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/add_missing_place_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_menu_share_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/menu_share_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_city_1.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/city_1.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable_hospital_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable/hospital_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_restaurant_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_restaurant_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_restaurant_image.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/restaurant_image.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_splash_screen_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/splash_screen_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_bank_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/bank_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_city_1.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/city_1.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-hdpi_menu_dashboard_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-hdpi/menu_dashboard_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_hospitals_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_hospitals_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxxhdpi_categories_shops_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxxhdpi/categories_shops_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xhdpi_categories_car_background.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xhdpi/categories_car_background.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_bank_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/bank_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-xxhdpi_general_back_icon.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-xxhdpi/general_back_icon.png"
+    },
+    {
+        "merged": "com.fieldproject.cityguide.app-merged_res-25:/drawable-mdpi_half_bicycle.png.flat",
+        "source": "com.fieldproject.cityguide.app-main-27:/drawable-mdpi/half_bicycle.png"
+    }
+]
